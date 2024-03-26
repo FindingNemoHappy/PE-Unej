@@ -2,7 +2,7 @@
 const firebaseConfig = {
     apiKey: "AIzaSyAoBihPUNjz8ySkweViFolBP9zWO8vSIco",
     authDomain: "chat-unej.firebaseapp.com",
-    databaseURL: 'https://chat-unej-default-rtdb.asia-southeast1.firebasedatabase.app/',
+    databaseURL: 'https://chat-unej-default-rtdb.asia-southeast1.firebasedatabase.app',
     projectId: "chat-unej",
     storageBucket: "chat-unej.appspot.com",
     messagingSenderId: "624797139589",
